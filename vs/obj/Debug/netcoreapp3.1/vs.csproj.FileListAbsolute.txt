@@ -1,0 +1,11 @@
+C:\Users\akshay.rathi\Desktop\vs\bin\Debug\netcoreapp3.1\vs.exe
+C:\Users\akshay.rathi\Desktop\vs\bin\Debug\netcoreapp3.1\vs.deps.json
+C:\Users\akshay.rathi\Desktop\vs\bin\Debug\netcoreapp3.1\vs.runtimeconfig.json
+C:\Users\akshay.rathi\Desktop\vs\bin\Debug\netcoreapp3.1\vs.runtimeconfig.dev.json
+C:\Users\akshay.rathi\Desktop\vs\bin\Debug\netcoreapp3.1\vs.dll
+C:\Users\akshay.rathi\Desktop\vs\bin\Debug\netcoreapp3.1\vs.pdb
+C:\Users\akshay.rathi\Desktop\vs\obj\Debug\netcoreapp3.1\vs.csprojAssemblyReference.cache
+C:\Users\akshay.rathi\Desktop\vs\obj\Debug\netcoreapp3.1\vs.AssemblyInfoInputs.cache
+C:\Users\akshay.rathi\Desktop\vs\obj\Debug\netcoreapp3.1\vs.AssemblyInfo.cs
+C:\Users\akshay.rathi\Desktop\vs\obj\Debug\netcoreapp3.1\vs.dll
+C:\Users\akshay.rathi\Desktop\vs\obj\Debug\netcoreapp3.1\vs.pdb
